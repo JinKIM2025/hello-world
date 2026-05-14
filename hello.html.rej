@@ -1,0 +1,13 @@
+diff a/hello.html b/hello.html	(rejected hunks)
+@@ -0,0 +1,10 @@
++<!DOCTYPE html>
++<html lang="ko">
++<head>
++  <meta charset="UTF-8">
++  <title>Hello, World!</title>
++</head>
++<body>
++  <h1>Hello, World!</h1>
++</body>
++</html>
+\ No newline at end of file
